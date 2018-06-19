@@ -1,5 +1,8 @@
 .idea
 .idea/
 .idea/*
+.hide
+.hide/
+.hide/*
 *.hide
 !spec/*.hide
